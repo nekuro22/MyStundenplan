@@ -1,0 +1,12 @@
+{
+  "name": "mystundenplan-frontend",
+  "version": "1.0.0",
+  "description": "The Frontend for the MyStundenplan",
+  "license": "MIT",
+  "author": "BruderJulian,Nekuro22",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
